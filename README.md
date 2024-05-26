@@ -52,7 +52,7 @@ The MySQL database schema consists of tables for users, bookings, flights, train
 ![Train Page](train_page.png)
 
 ### Activities Page
-![Activities Page](activity_page1.png)
+![Activities Page](activity_page.png)
 ![Activities Page](activity_page2.png)
 
 ### Hotel Page
