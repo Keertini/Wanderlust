@@ -33,6 +33,40 @@ The MySQL database schema consists of tables for users, bookings, flights, train
 - **Login:** Existing users can log in securely using their credentials.
 - **Booking:** Explore various travel options, select preferred choices, and complete bookings seamlessly.
 
+## Screenshots
+
+### Signup Page
+![Signup Page](images/signup_page.png)
+
+### Login Page
+![Login Page](images/login_page.png)
+
+### Home Page
+![Home Page](images/home_page.png)
+
+### Flight Page
+![Flight Page](images/flight_page.png)
+
+### Train Page
+![Train Page](images/train_page.png)
+
+### Activities Page
+![Activities Page](images/activities_page.png)
+
+### Hotel Page
+![Hotel Page](images/hotel_page.png)
+
+### Holiday Package Page
+![Holiday Package Page](images/holiday_package_page.png)
+
+### Booking Page
+![Booking Page](images/booking_page.png)
+
+### Payment Page
+![Payment Page](images/payment_page.png)
+
+### Thank You Page
+![Thank You Page](images/thank_you_page.png)
 
 ### Thank you for exploring Wanderlust! We hope this application simplifies your travel planning experience.
 ### Happy traveling! ✈️🌍
