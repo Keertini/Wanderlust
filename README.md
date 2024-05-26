@@ -42,7 +42,8 @@ The MySQL database schema consists of tables for users, bookings, flights, train
 ![Login Page](images/login_page.png)
 
 ### Home Page
-![Home Page](images/home_page.png)
+![Home Page](images/home_page1.png)
+![Home Page](images/home_page2.png)
 
 ### Flight Page
 ![Flight Page](images/flight_page.png)
@@ -51,7 +52,8 @@ The MySQL database schema consists of tables for users, bookings, flights, train
 ![Train Page](images/train_page.png)
 
 ### Activities Page
-![Activities Page](images/activities_page.png)
+![Activities Page](images/activitie_page1.png)
+![Activities Page](images/activitie_page2.png)
 
 ### Hotel Page
 ![Hotel Page](images/hotel_page.png)
@@ -60,13 +62,16 @@ The MySQL database schema consists of tables for users, bookings, flights, train
 ![Holiday Package Page](images/holiday_package_page.png)
 
 ### Booking Page
-![Booking Page](images/booking_page.png)
+![Booking Page](images/booking_page1.png)
+![Booking Page](images/booking_page2.png)
 
 ### Payment Page
 ![Payment Page](images/payment_page.png)
 
 ### Thank You Page
-![Thank You Page](images/thank_you_page.png)
+![Thank You Page](images/thank_you_page1.png)
+![Thank You Page](images/thank_you_page2.png)
+
 
 ### Thank you for exploring Wanderlust! We hope this application simplifies your travel planning experience.
 ### Happy traveling! ✈️🌍
