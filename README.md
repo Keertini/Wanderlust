@@ -36,41 +36,42 @@ The MySQL database schema consists of tables for users, bookings, flights, train
 ## Screenshots
 
 ### Signup Page
-![Signup Page](images/signup_page.png)
+![Signup Page](signup_page.png)
 
 ### Login Page
-![Login Page](images/login_page.png)
+![Login Page](login_page.png)
 
 ### Home Page
-![Home Page](images/home_page1.png)
-![Home Page](images/home_page2.png)
+![Home Page](home_page1.png)
+![Home Page](home_page2.png)
 
 ### Flight Page
-![Flight Page](images/flight_page.png)
+![Flight Page](flight_page.png)
 
 ### Train Page
-![Train Page](images/train_page.png)
+![Train Page](train_page.png)
 
 ### Activities Page
-![Activities Page](images/activitie_page1.png)
-![Activities Page](images/activitie_page2.png)
+![Activities Page](activitie_page1.png)
+![Activities Page](activitie_page2.png)
 
 ### Hotel Page
-![Hotel Page](images/hotel_page.png)
+![Hotel Page](hotel_page.png)
 
 ### Holiday Package Page
-![Holiday Package Page](images/holiday_package_page.png)
+![Holiday Package Page](holiday_package_page.png)
 
 ### Booking Page
-![Booking Page](images/booking_page1.png)
-![Booking Page](images/booking_page2.png)
+![Booking Page](booking_page1.png)
+![Booking Page](booking_page2.png)
 
 ### Payment Page
-![Payment Page](images/payment_page.png)
+![Payment Page](payment_page.png)
 
 ### Thank You Page
-![Thank You Page](images/thank_you_page1.png)
-![Thank You Page](images/thank_you_page2.png)
+![Thank You Page](thank_you_page1.png)
+![Thank You Page](thank_you_page2.png)
+
 
 
 ### Thank you for exploring Wanderlust! We hope this application simplifies your travel planning experience.
