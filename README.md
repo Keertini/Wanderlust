@@ -53,7 +53,7 @@ The MySQL database schema consists of tables for users, bookings, flights, train
 
 ### Activities Page
 ![Activities Page](activity_page.png)
-![Activities Page](activity_page2.png)
+![Activities Page](thank_you_page2.png)
 
 ### Hotel Page
 ![Hotel Page](hotel_page.png)
@@ -70,7 +70,7 @@ The MySQL database schema consists of tables for users, bookings, flights, train
 
 ### Thank You Page
 ![Thank You Page](thank_you_page1.png)
-![Thank You Page](thank_you_page2.png)
+![Thank You Page](activity_page2.png)
 
 
 
